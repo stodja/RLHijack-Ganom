@@ -11,14 +11,14 @@
     "provider": "release"
   },
   {
-    "internalName": "Finder-0.0.10",
-    "hash": "2f34594d9b90e659bc5558c2183db5a5fcb6a631304203317618506ac57d67f7",
-    "size": 13136,
+    "internalName": "watchdog-3.3.0-release+4538-all",
+    "hash": "9b12f65fbb58dc5141a7df82a63c63f48e56f77e1dafbe1a5863fc079a6938ab",
+    "size": 25132401,
     "plugins": [
-      "net.runelite.client.plugins.Finder.FinderPlugin"
+      "com.adamk33n3r.runelite.watchdog.WatchdogPlugin"
     ],
-    "displayName": "Finder",
-    "description": "Find players, objects or npc's",
+    "displayName": "Watchdog +Bosses (Custom Alerts)",
+    "description": "Create custom alerts for different events like messages, stats, inventory changes, or built-in notifications with no bosses restriction",
     "provider": "release"
   }
 ]
