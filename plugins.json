@@ -4,7 +4,7 @@
     "hash": "f9ba4518843b74d5410b1afcb4a38bd91c1ce6ee0ea758262c1a732a13aa3af4",
     "size": 106742,
     "plugins": [
-      "net.runelite.client.plugins.externals.oneclick"
+      "net.runelite.client.plugins.externals.oneclick.OneClick"
     ],
     "displayName": "Ganom OneClick",
     "description": "",
