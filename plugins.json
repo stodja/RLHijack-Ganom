@@ -9,5 +9,16 @@
     "displayName": "Ganom OneClick",
     "description": "",
     "provider": "release"
+  },
+    {
+    "internalName": "visualsounds-preban",
+    "hash": "f0963575f174865aee2ddf8c28170e0c9236fad0d549b7950b5816f3260a3f9e",
+    "size": 94920,
+    "plugins": [
+      "com.visualsounds.VisualSoundsPlugin"
+    ],
+    "displayName": "Visual Sounds Preban",
+    "description": "Visually see any sounds that are playing in game",
+    "provider": "release"
   }
 ]
