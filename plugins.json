@@ -1,24 +1,24 @@
 [
   {
-    "internalName": "OneClick-9.1.0",
-    "hash": "f9ba4518843b74d5410b1afcb4a38bd91c1ce6ee0ea758262c1a732a13aa3af4",
-    "size": 106742,
-    "plugins": [
-      "net.runelite.client.plugins.externals.oneclick.OneClick"
-    ],
-    "displayName": "Ganom OneClick",
-    "description": "",
-    "provider": "release"
-  },
-    {
     "internalName": "visualsounds-preban",
     "hash": "f0963575f174865aee2ddf8c28170e0c9236fad0d549b7950b5816f3260a3f9e",
     "size": 94920,
     "plugins": [
       "com.visualsounds.VisualSoundsPlugin"
     ],
-    "displayName": "Visual Sounds Preban",
-    "description": "Visually see any sounds that are playing in game",
+    "displayName": "Visual Sounds +Bosses",
+    "description": "Visually see any sounds that are playing in game with no bosses restriction",
+    "provider": "release"
+  },
+  {
+    "internalName": "pvptools-6.0.0",
+    "hash": "f8451df6d28f58ef0bc924f9e51ceef23832399808a33f89a8df9ebb519f70a9",
+    "size": 28298,
+    "plugins": [
+      "net.runelite.client.plugins.pvptools.PvpToolsPlugin"
+    ],
+    "displayName": "PvP Tools",
+    "description": "Enables the PvP tools panel",
     "provider": "release"
   }
 ]
