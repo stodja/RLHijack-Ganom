@@ -11,14 +11,14 @@
     "provider": "release"
   },
   {
-    "internalName": "pvptools-6.0.0",
-    "hash": "f8451df6d28f58ef0bc924f9e51ceef23832399808a33f89a8df9ebb519f70a9",
-    "size": 28298,
+    "internalName": "Finder-0.0.10",
+    "hash": "2f34594d9b90e659bc5558c2183db5a5fcb6a631304203317618506ac57d67f7",
+    "size": 13136,
     "plugins": [
-      "net.runelite.client.plugins.pvptools.PvpToolsPlugin"
+      "net.runelite.client.plugins.Finder.FinderPlugin"
     ],
-    "displayName": "PvP Tools",
-    "description": "Enables the PvP tools panel",
+    "displayName": "Finder",
+    "description": "Find players, objects or npc's",
     "provider": "release"
   }
 ]
