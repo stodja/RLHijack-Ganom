@@ -31,5 +31,16 @@
     "displayName": "Dialogue Continuer",
     "description": "Automatically continue dialogs",
     "provider": "release"
+  },
+  {
+    "internalName": "EthansApi",
+    "hash": "c3a8762985ebec3e149e436ee57dd88e35445e3e05e4154b786cac074a903d87",
+    "size": 244575,
+    "plugins": [
+      "com.example.EthanApiPlugin.EthanApiPlugin"
+    ],
+    "displayName": "EthanVannApi",
+    "description": "Needed for some plugins to work",
+    "provider": "release"
   }
 ]
