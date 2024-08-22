@@ -20,5 +20,16 @@
     "displayName": "Watchdog +Bosses (Custom Alerts)",
     "description": "Create custom alerts for different events like messages, stats, inventory changes, or built-in notifications with no bosses restriction",
     "provider": "release"
+  },
+  {
+    "internalName": "DialogueContinuer-1.0.0",
+    "hash": "dbd95ccef1963034cd131fc89c4c72d13c0ae3551c288882ef804501ab68cb54",
+    "size": 4782,
+    "plugins": [
+      "com.polyplugins.Dialogue.DialogueContinuerPlugin"
+    ],
+    "displayName": "Dialogue Continuer",
+    "description": "Automatically continue dialogs",
+    "provider": "release"
   }
 ]
