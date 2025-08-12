@@ -21,4 +21,15 @@
     "description": "Create custom alerts for different events like messages, stats, inventory changes, or built-in notifications with no bosses restriction",
     "provider": "release"
   }
+  {
+    "internalName": "AutoPrayFlick-6.2.0",
+    "hash": "0ab273848495b5cbaa9f7d2d096208331c352db205c2c18c00f81575d6f70489",
+    "size": 8293,
+    "plugins": [
+      "net.runelite.client.plugins.externals.autoprayflick"
+    ],
+    "displayName": "Auto Prayer Flick",
+    "description": "This plugin will attempt to automatically flick your prayers, simply place your cursor over the prayer orb, and press the hotkey",
+    "provider": "release"
+  }
 ]
